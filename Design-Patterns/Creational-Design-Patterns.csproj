@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Builder\" />
+    <Folder Include="Prototype\" />
+  </ItemGroup>
+
 </Project>
