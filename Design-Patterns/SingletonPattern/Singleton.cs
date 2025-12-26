@@ -4,7 +4,7 @@ namespace Design_Patterns.SingletonPattern
     /// <summary>
     /// Eager initialization of singleton.
     /// </summary>
-    class SingletonEager
+    public class SingletonEager
     {
         private static SingletonEager singletonInstance = new SingletonEager();
 
@@ -28,7 +28,7 @@ namespace Design_Patterns.SingletonPattern
     /// <summary>
     /// Lazy initialization suingleton.
     /// </summary>
-    class SingletonLazy /// Single class whole part
+    public class SingletonLazy /// Single class whole part
     {
         private static SingletonLazy? singletonLazy = null; /// initialize with null for lazy loading.
         public static readonly object singletonLazyLock = new object(); /// object ofr locking block of code.

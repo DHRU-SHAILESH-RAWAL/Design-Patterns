@@ -5,6 +5,10 @@ VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational-Design-Patterns", "Design-Patterns\Creational-Design-Patterns.csproj", "{6F76BD21-8209-46A7-A610-D14B8444344D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDesignPatterns", "StructuralDesignPatterns\StructuralDesignPatterns.csproj", "{11C40E0B-9B6E-475E-ABD4-18974B587C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{0B3BD5EB-EE24-47B0-AC54-EE638A54622E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6F76BD21-8209-46A7-A610-D14B8444344D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F76BD21-8209-46A7-A610-D14B8444344D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F76BD21-8209-46A7-A610-D14B8444344D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C40E0B-9B6E-475E-ABD4-18974B587C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C40E0B-9B6E-475E-ABD4-18974B587C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C40E0B-9B6E-475E-ABD4-18974B587C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C40E0B-9B6E-475E-ABD4-18974B587C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3BD5EB-EE24-47B0-AC54-EE638A54622E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3BD5EB-EE24-47B0-AC54-EE638A54622E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3BD5EB-EE24-47B0-AC54-EE638A54622E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3BD5EB-EE24-47B0-AC54-EE638A54622E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

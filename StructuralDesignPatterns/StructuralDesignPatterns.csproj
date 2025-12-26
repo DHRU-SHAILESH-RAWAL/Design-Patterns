@@ -2,15 +2,9 @@
 
   <PropertyGroup>
     <OutputType>Library</OutputType>
-    <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>Design_Patterns</RootNamespace>
+    <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Builder\" />
-    <Folder Include="Prototype\" />
-  </ItemGroup>
 
 </Project>
