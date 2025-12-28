@@ -22,4 +22,8 @@ part of a system changes, the entire structure doesn't break.
 
 - BRIDGE: Decouples abstraction from implementation.
   * C# Tip: Separating a UI from the OS-specific graphic drivers.
-  ===========================================================
+
+- FLYWEIGHT: Minimizes memory usage by sharing data between similar objects.
+  * C# Tip: Think of 'string.Intern()' or a game with 10,000 trees where 
+    all share the same 'Texture' object but have different 'Positions'.
+===========================================================
