@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Chain of Responsibility\" />
-  </ItemGroup>
-
 </Project>
