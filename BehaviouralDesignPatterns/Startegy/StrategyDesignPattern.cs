@@ -11,6 +11,13 @@ Key Idea:
 - Uses composition instead of inheritance
 - Eliminates large if-else or switch statements
 
+Difference from State Pattern (Interview Important):
+- Strategy Pattern: Client explicitly chooses and switches
+  the algorithm (strategy) at runtime.
+- State Pattern: Object changes its behavior automatically
+  based on its internal state; client is usually unaware
+  of state transitions.
+
 Real-world example:
 - Payment methods (UPI, Credit Card, Wallet, etc.)
 ===========================================================
