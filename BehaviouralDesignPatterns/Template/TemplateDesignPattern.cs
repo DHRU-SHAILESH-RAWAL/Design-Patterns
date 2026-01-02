@@ -27,12 +27,6 @@ TEMPLATE vs STRATEGY:
 ===========================================================
 */
 
-using System;                      // Provides Console and base system classes
-using System.Collections.Generic;  // For collections (not used directly here)
-using System.Linq;                 // For LINQ operations
-using System.Text;                 // For string handling
-using System.Threading.Tasks;      // For async programming
-
 namespace BehaviouralDesignPatterns.Template
 {
     // ABSTRACT BASE CLASS
