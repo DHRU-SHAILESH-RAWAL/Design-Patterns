@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational-Design-Patterns", "Design-Patterns\Creational-Design-Patterns.csproj", "{6F76BD21-8209-46A7-A610-D14B8444344D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational-Design-Pattern", "Design-Patterns\Creational-Design-Pattern.csproj", "{6F76BD21-8209-46A7-A610-D14B8444344D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDesignPatterns", "StructuralDesignPatterns\StructuralDesignPatterns.csproj", "{11C40E0B-9B6E-475E-ABD4-18974B587C40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDesignPattern", "StructuralDesignPatterns\StructuralDesignPattern.csproj", "{11C40E0B-9B6E-475E-ABD4-18974B587C40}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{0B3BD5EB-EE24-47B0-AC54-EE638A54622E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviouralDesignPatterns", "BehaviouralDesignPatterns\BehaviouralDesignPatterns.csproj", "{4D4687B0-4989-48F5-BC54-136406160A46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviouralDesignPattern", "BehaviouralDesignPatterns\BehaviouralDesignPattern.csproj", "{4D4687B0-4989-48F5-BC54-136406160A46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
