@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviouralDesignPattern", "BehaviouralDesignPatterns\BehaviouralDesignPattern.csproj", "{4D4687B0-4989-48F5-BC54-136406160A46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns", "CreationalDesignPatterns\CreationalDesignPatterns.csproj", "{7EADB285-9906-415F-935B-7CBCB394A1CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4D4687B0-4989-48F5-BC54-136406160A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D4687B0-4989-48F5-BC54-136406160A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D4687B0-4989-48F5-BC54-136406160A46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EADB285-9906-415F-935B-7CBCB394A1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EADB285-9906-415F-935B-7CBCB394A1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EADB285-9906-415F-935B-7CBCB394A1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EADB285-9906-415F-935B-7CBCB394A1CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
