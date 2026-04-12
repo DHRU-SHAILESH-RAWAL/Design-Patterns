@@ -82,7 +82,7 @@ namespace CreationalDesignPatterns.Factory
     /// <summary>
     /// ConcreteCreator: Implements the factory method to instantiate the correct payment service.
     /// </summary>
-    public class ConcreePaymentService : PaymentServiceFactory
+    public class ConcretePaymentService : PaymentServiceFactory
     {
         public override IPaymentservice CreatePaymentService(string paymentType)
         {
